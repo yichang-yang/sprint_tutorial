@@ -1,3 +1,3 @@
-Sample repository for the SciPy2015 tutorial to learn how to sprint
+Sample repository for the SciPy2016 tutorial to learn how to sprint
 ====================================================================
 
